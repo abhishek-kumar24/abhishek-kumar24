@@ -53,27 +53,27 @@ How to reach me **kabhishek.singh@outlook.com**
 
 ## 📊 My Git Stats 🔥
 <p >
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>    
+<a href="https://github.com/abhishek-kumar24/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=abhishek-kumar24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/abhishek-kumar24/github-readme-stats"><img alt="Abhishek Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kumar24&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>    
 </p>
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/varunaluri18/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/abhishek-kumar24/github-readme-streak-stats -->
 <p >
-  <a href="https://github.com/varunaluri18/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=varunaluri18&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/abhishek-kumar24/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-kumar24&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 
-<a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abhishek-kumar24/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishek-kumar24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 
-[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
+[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/abhishek-kumar24?tab=repositories)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-kumar24&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Thanks for visit my profile.**
 
