@@ -66,14 +66,5 @@ How to reach me **kabhishek.singh@outlook.com**
   </a>
 </p>
 
-
-<a href="https://github.com/abhishek-kumar24/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishek-kumar24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
- 
-
-[![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/abhishek-kumar24?tab=repositories)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-kumar24&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 **Thanks for visit my profile.**
 
