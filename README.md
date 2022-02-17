@@ -24,16 +24,15 @@ How to reach me **kabhishek.singh@outlook.com**
 
 <img align="right" src="https://th.bing.com/th/id/OIP.G1hifPZpbsDjFo2bnk3OWgHaFU?pid=ImgDet&rs=1" height="290" width="500">
 
-- <b>C Language</b>
 - <b>Python</b>
 - <b>Oracle SQL</b>
 - <b>PL/SQL</b>
-- <b>ETL</b>
+- <b>SQL Essentials </b>
 - <b>Data Ware Housing</b>
 - <b>Machine Learning</b>
 - <b>AWS</b>
-- <b>OBIEE</b>
-- <b>BI Publisher</b>
+- <b>Tensor Flow</b>
+- <b>Tableau</b>
 
 </p>
 
